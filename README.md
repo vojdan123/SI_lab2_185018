@@ -64,3 +64,5 @@
 
 1,2,3,4,5,6,7,8,9.1,9.2,(10,12,14,15,9.3,9.2),17,18,23 - ne moze funkcijata da vrati true bidejki korisnikot nema golema bukva i brojka vo negoviot password
 
+### Објаснување на напишаните unit tests
+За Every branch тестот, ми се бара да поминам низ секое ребро во графот.
